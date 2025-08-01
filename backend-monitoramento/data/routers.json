@@ -1,0 +1,14 @@
+[
+    {
+      "nome": "AP1",
+      "local": "Bloco A",
+      "ipWan": "189.45.120.12",
+      "ativo": true
+    },
+    {
+      "nome": "AP2",
+      "local": "Bloco B",
+      "ipWan": "189.45.120.13",
+      "ativo": false
+    }
+  ]

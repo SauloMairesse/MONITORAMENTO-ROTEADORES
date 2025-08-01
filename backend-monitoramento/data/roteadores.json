@@ -1,0 +1,200 @@
+[
+  {
+    "nome":1,
+    "local":"Bloco 14 - SALA TI (1 ANDAR)",
+    "ipWan":"10.100.22.3",
+    "ativo":false
+  },
+  {
+    "nome":2,
+    "local":"Bloco 14 - SALA TI (2 ANDAR)",
+    "ipWan":"10.100.19.242",
+    "ativo":true
+  },
+  {
+    "nome":3,
+    "local":"Bloco 15 - SALA TI (1 ANDAR)",
+    "ipWan":"10.100.19.58",
+    "ativo":false
+  },
+  {
+    "nome":4,
+    "local":"Bloco 15 - SALA TI (2 ANDAR)",
+    "ipWan":"10.100.22.4",
+    "ativo":true
+  },
+  {
+    "nome":5,
+    "local":"Bloco 16 - SALA PROF",
+    "ipWan":"10.100.22.7",
+    "ativo":false
+  },
+  {
+    "nome":6,
+    "local":"Bloco 16 - SALA TI (2 ANDAR)",
+    "ipWan":"10.100.19.63",
+    "ativo":true
+  },
+  {
+    "nome":7,
+    "local":"Bloco 17 - SALA TI (1 ANDAR)",
+    "ipWan":"10.100.22.18",
+    "ativo":true
+  },
+  {
+    "nome":8,
+    "local":"Bloco 17 - SALA TI (2 ANDAR)",
+    "ipWan":"10.100.19.56",
+    "ativo":false
+  },
+  {
+    "nome":9,
+    "local":"Bloco 2 - SALA TI",
+    "ipWan":"10.100.22.5",
+    "ativo":false
+  },
+  {
+    "nome":10,
+    "local":"Bloco 5 - SALA TI",
+    "ipWan":"10.100.19.24",
+    "ativo":false
+  },
+  {
+    "nome":11,
+    "local":"Bloco 5 - CENTRO DE IDIOMAS",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":12,
+    "local":"Bloco 7 - SALA TI",
+    "ipWan":"10.100.19.90",
+    "ativo":false
+  },
+  {
+    "nome":13,
+    "local":"Bloco 7 - LAB QUIMICA & BIOLOGIA",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":14,
+    "local":"Bloco 7 A - SALA TI",
+    "ipWan":"10.100.19.108",
+    "ativo":true
+  },
+  {
+    "nome":15,
+    "local":"Bloco 9 - SALA TI",
+    "ipWan":"10.100.19.98",
+    "ativo":false
+  },
+  {
+    "nome":16,
+    "local":"Bloco 9 - LAB. 911",
+    "ipWan":"X",
+    "ativo":false
+  },
+  {
+    "nome":17,
+    "local":"Bloco 9 A - SALA TI",
+    "ipWan":"10.100.19.21",
+    "ativo":true
+  },
+  {
+    "nome":18,
+    "local":"Bloco 11 - SALA TI",
+    "ipWan":"10.100.19.16",
+    "ativo":false
+  },
+  {
+    "nome":19,
+    "local":"Bloco 11 - LAB. SIMEMAP",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":20,
+    "local":"Bloco 11 A - SALA TI",
+    "ipWan":"10.100.19.48",
+    "ativo":true
+  },
+  {
+    "nome":21,
+    "local":"Bloco 11 A - LAB. ECOTOXICOLOGIA",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":22,
+    "local":"Bloco 13 - SALA TI (LAB. ENTOMOLOGIA)",
+    "ipWan":"10.100.19.55",
+    "ativo":false
+  },
+  {
+    "nome":23,
+    "local":"Bloco 13 - LAB. PSICULTURA",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":24,
+    "local":"Bloco 4 - LAB. GREDES",
+    "ipWan":"?",
+    "ativo":true
+  },
+  {
+    "nome":25,
+    "local":"Bloco 4 - LAB. MOB",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":26,
+    "local":"Bloco 4 - LAB.",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":27,
+    "local":"Bloco 6 - SALA TI",
+    "ipWan":"10.100.19.161",
+    "ativo":true
+  },
+  {
+    "nome":28,
+    "local":"Bloco 6 - LAB. AUTOCAD",
+    "ipWan":"10.100.19.6",
+    "ativo":false
+  },
+  {
+    "nome":29,
+    "local":"Bloco 8 - ALMOCHARIFADO ENG. CIVIL",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":30,
+    "local":"Bloco 8 - SALA TI",
+    "ipWan":"-",
+    "ativo":false
+  },
+  {
+    "nome":31,
+    "local":"Bloco 10 - SALTA TI",
+    "ipWan":"10.100.19.166",
+    "ativo":true
+  },
+  {
+    "nome":32,
+    "local":"Bloco BIBLIOTECA - BIBLIOTECA",
+    "ipWan":"10.100.22.2",
+    "ativo":false
+  },
+  {
+    "nome":33,
+    "local":"Bloco REFEITORIO - REFEITORIO",
+    "ipWan":"10.100.22.1",
+    "ativo":false
+  }
+]

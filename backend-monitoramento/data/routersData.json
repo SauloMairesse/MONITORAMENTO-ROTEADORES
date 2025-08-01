@@ -1,0 +1,299 @@
+[
+  {
+    "mac": "2848E74E7898",
+    "bloco": "14",
+    "local": "SALA TI (1 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.3"
+  },
+  {
+    "mac": "2848E74E78DC",
+    "bloco": "14",
+    "local": "SALA TI (2 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.242"
+  },
+  {
+    "mac": "2848E74E7799",
+    "bloco": "15",
+    "local": "SALA TI (1 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.58"
+  },
+  {
+    "mac": "2848E74E78A9",
+    "bloco": "15",
+    "local": "SALA TI (2 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.4"
+  },
+  {
+    "mac": "2848E74E7843",
+    "bloco": "16",
+    "local": "SALA PROF",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.7"
+  },
+  {
+    "mac": "2848E74E77CC",
+    "bloco": "16",
+    "local": "SALA TI (2 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.63"
+  },
+  {
+    "mac": "2848E74E77EE",
+    "bloco": "17",
+    "local": "SALA TI (1 ANDAR)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.18"
+  },
+  {
+    "mac": "90F644BCD9EB",
+    "bloco": "17",
+    "local": "SALA TI (2 ANDAR)",
+    "modelo": "AX3S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.56"
+  },
+  {
+    "mac": "2848E74E7810",
+    "bloco": "2",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.5"
+  },
+  {
+    "mac": "2848E78FD69B",
+    "bloco": "5",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.24"
+  },
+  {
+    "mac": "2848E74E77BB",
+    "bloco": "5",
+    "local": "CENTRO DE IDIOMAS",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 2",
+    "ipWan": "-"
+  },
+  {
+    "mac": "2848E74E7821",
+    "bloco": "7",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.90"
+  },
+  {
+    "mac": "2848E78FF01B",
+    "bloco": "7",
+    "local": "LAB QUIMICA & BIOLOGIA",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 7",
+    "ipWan": "-"
+  },
+  {
+    "mac": "2848E78FBB72",
+    "bloco": "7 A",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.108"
+  },
+  {
+    "mac": "2848E74E7777",
+    "bloco": "9",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.98"
+  },
+  {
+    "mac": "90F644BCDA2F",
+    "bloco": "9",
+    "local": "LAB. 911",
+    "modelo": "AX3S",
+    "configuracao": "MASTER",
+    "roteadorMaster": null,
+    "ipWan": "X"
+  },
+  {
+    "mac": "2848E74E7953",
+    "bloco": "9 A",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.21"
+  },
+  {
+    "mac": "2848E74E7865",
+    "bloco": "11",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.16"
+  },
+  {
+    "mac": "?",
+    "bloco": "11",
+    "local": "LAB. SIMEMAP",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 11",
+    "ipWan": "-"
+  },
+  {
+    "mac": "2848E74E78BA",
+    "bloco": "11 A",
+    "local": "SALA TI",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.48"
+  },
+  {
+    "mac": "90F644BCF59C",
+    "bloco": "11 A",
+    "local": "LAB. ECOTOXICOLOGIA",
+    "modelo": "AX3S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 11A",
+    "ipWan": "-"
+  },
+  {
+    "mac": "2848E7901CDD",
+    "bloco": "13",
+    "local": "SALA TI (LAB. ENTOMOLOGIA)",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.55"
+  },
+  {
+    "mac": "2848E79034D6",
+    "bloco": "13",
+    "local": "LAB. PSICULTURA",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 13",
+    "ipWan": "-"
+  },
+  {
+    "mac": "2848E74E7887",
+    "bloco": "4",
+    "local": "LAB. GREDES",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "?"
+  },
+  {
+    "mac": "?",
+    "bloco": "4",
+    "local": "LAB. MOB",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "LAB. GREDES",
+    "ipWan": "-"
+  },
+  {
+    "mac": "?",
+    "bloco": "4",
+    "local": "LAB.",
+    "modelo": "AX2S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "LAB. GREDES",
+    "ipWan": "-"
+  },
+  {
+    "mac": "90F644BCF4F2",
+    "bloco": "6",
+    "local": "SALA TI",
+    "modelo": "AX3S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.161"
+  },
+  {
+    "mac": "90F644BCF58B",
+    "bloco": "6",
+    "local": "LAB. AUTOCAD",
+    "modelo": "AX3S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.6"
+  },
+  {
+    "mac": "90F644BCF5AD",
+    "bloco": "8",
+    "local": "ALMOCHARIFADO ENG. CIVIL",
+    "modelo": "AX3S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 6",
+    "ipWan": "-"
+  },
+  {
+    "mac": "90F644BCF503",
+    "bloco": "8",
+    "local": "SALA TI",
+    "modelo": "AX3S",
+    "configuracao": "REPETIDOR",
+    "roteadorMaster": "SALA TI BL. 10",
+    "ipWan": "-"
+  },
+  {
+    "mac": "90F644BCDA62",
+    "bloco": "10",
+    "local": "SALTA TI",
+    "modelo": "AX3S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.19.166"
+  },
+  {
+    "mac": "2848E74E7788",
+    "bloco": "BIBLIOTECA",
+    "local": "BIBLIOTECA",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.2"
+  },
+  {
+    "mac": "2848E78FA753",
+    "bloco": "REFEITORIO",
+    "local": "REFEITORIO",
+    "modelo": "AX2S",
+    "configuracao": "MASTER",
+    "roteadorMaster": "-",
+    "ipWan": "10.100.22.1"
+  }
+]
