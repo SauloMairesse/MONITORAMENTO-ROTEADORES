@@ -6,7 +6,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.3"
+    "ipWan": "10.100.22.3",
+    "status": null
   },
   {
     "mac": "2848E74E78DC",
@@ -15,7 +16,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.242"
+    "ipWan": "10.100.19.242",
+    "status": null
   },
   {
     "mac": "2848E74E7799",
@@ -24,7 +26,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.58"
+    "ipWan": "10.100.19.58",
+    "status": null
   },
   {
     "mac": "2848E74E78A9",
@@ -33,7 +36,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.4"
+    "ipWan": "10.100.22.4",
+    "status": null
   },
   {
     "mac": "2848E74E7843",
@@ -42,7 +46,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.7"
+    "ipWan": "10.100.22.7",
+    "status": null
   },
   {
     "mac": "2848E74E77CC",
@@ -51,7 +56,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.63"
+    "ipWan": "10.100.19.63",
+    "status": null
   },
   {
     "mac": "2848E74E77EE",
@@ -60,7 +66,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.18"
+    "ipWan": "10.100.22.18",
+    "status": null
   },
   {
     "mac": "90F644BCD9EB",
@@ -69,7 +76,8 @@
     "modelo": "AX3S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.56"
+    "ipWan": "10.100.19.56",
+    "status": null
   },
   {
     "mac": "2848E74E7810",
@@ -78,7 +86,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.5"
+    "ipWan": "10.100.22.5",
+    "status": null
   },
   {
     "mac": "2848E78FD69B",
@@ -87,7 +96,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.24"
+    "ipWan": "10.100.19.24",
+    "status": null
   },
   {
     "mac": "2848E74E77BB",
@@ -96,7 +106,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 2",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "2848E74E7821",
@@ -105,7 +116,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.90"
+    "ipWan": "10.100.19.90",
+    "status": null
   },
   {
     "mac": "2848E78FF01B",
@@ -114,7 +126,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 7",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "2848E78FBB72",
@@ -123,7 +136,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.108"
+    "ipWan": "10.100.19.108",
+    "status": null
   },
   {
     "mac": "2848E74E7777",
@@ -132,7 +146,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.98"
+    "ipWan": "10.100.19.98",
+    "status": null
   },
   {
     "mac": "90F644BCDA2F",
@@ -141,7 +156,8 @@
     "modelo": "AX3S",
     "configuracao": "MASTER",
     "roteadorMaster": null,
-    "ipWan": "X"
+    "ipWan": "X",
+    "status": null
   },
   {
     "mac": "2848E74E7953",
@@ -150,7 +166,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.21"
+    "ipWan": "10.100.19.21",
+    "status": null
   },
   {
     "mac": "2848E74E7865",
@@ -159,7 +176,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.16"
+    "ipWan": "10.100.19.16",
+    "status": null
   },
   {
     "mac": "?",
@@ -168,7 +186,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 11",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "2848E74E78BA",
@@ -177,7 +196,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.48"
+    "ipWan": "10.100.19.48",
+    "status": null
   },
   {
     "mac": "90F644BCF59C",
@@ -186,7 +206,8 @@
     "modelo": "AX3S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 11A",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "2848E7901CDD",
@@ -195,7 +216,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.55"
+    "ipWan": "10.100.19.55",
+    "status": null
   },
   {
     "mac": "2848E79034D6",
@@ -204,7 +226,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 13",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "2848E74E7887",
@@ -213,7 +236,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "?"
+    "ipWan": "?",
+    "status": null
   },
   {
     "mac": "?",
@@ -222,7 +246,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "LAB. GREDES",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "?",
@@ -231,7 +256,8 @@
     "modelo": "AX2S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "LAB. GREDES",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "90F644BCF4F2",
@@ -240,7 +266,8 @@
     "modelo": "AX3S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.161"
+    "ipWan": "10.100.19.161",
+    "status": null
   },
   {
     "mac": "90F644BCF58B",
@@ -249,7 +276,8 @@
     "modelo": "AX3S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.6"
+    "ipWan": "10.100.19.6",
+    "status": null
   },
   {
     "mac": "90F644BCF5AD",
@@ -258,7 +286,8 @@
     "modelo": "AX3S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 6",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "90F644BCF503",
@@ -267,7 +296,8 @@
     "modelo": "AX3S",
     "configuracao": "REPETIDOR",
     "roteadorMaster": "SALA TI BL. 10",
-    "ipWan": "-"
+    "ipWan": "-",
+    "status": null
   },
   {
     "mac": "90F644BCDA62",
@@ -276,7 +306,8 @@
     "modelo": "AX3S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.19.166"
+    "ipWan": "10.100.19.166",
+    "status": null
   },
   {
     "mac": "2848E74E7788",
@@ -285,7 +316,8 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.2"
+    "ipWan": "10.100.22.2",
+    "status": null
   },
   {
     "mac": "2848E78FA753",
@@ -294,6 +326,7 @@
     "modelo": "AX2S",
     "configuracao": "MASTER",
     "roteadorMaster": "-",
-    "ipWan": "10.100.22.1"
+    "ipWan": "10.100.22.1",
+    "status": null
   }
 ]

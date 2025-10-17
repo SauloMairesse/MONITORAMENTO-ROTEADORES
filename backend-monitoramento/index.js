@@ -10,25 +10,25 @@ const PORT = 3001;
 
 app.use(cors());
 
-// Rota principal retorna lista de roteadores (sem status)
-app.get('/api/routers', (req, res) => {
-  const path = require('path');
-  const filePath = path.join(__dirname, 'data', 'routersData.json');
+const filePath = require('path').join(__dirname, 'data', 'routersData.json');
+
+async function obterStatus(router) {
+  try {
+    const resultadoPing = await ping.promise.probe(router.ipWan, { timeout: 2 });
+    return { ...router, ativo: resultadoPing.alive };
+  } catch {
+    return { ...router, ativo: false };
+  }
+}
+
+// Rota principal retorna lista de roteadores e busca o status deles
+app.get('/api/routers', async (req, res) => {
   const data = fs.readFileSync(filePath);
   const routers = JSON.parse(data);
-  res.json(routers);
-});
 
-// Rota para verificar status dinâmico
-app.get('/api/ping/:ip', async (req, res) => {
-  const ip = req.params.ip;
+  const routers_status_atualizados = obterStatus(routers);
 
-  try {
-    const result = await ping.promise.probe(ip, { timeout: 2 });
-    res.json({ ativo: result.alive });
-  } catch (error) {
-    res.status(500).json({ error: 'Erro ao fazer ping no roteador.' });
-  }
+  res.send(routers_status_atualizados)
 });
 
 app.listen(PORT, () => {
