@@ -9,30 +9,11 @@ function RouterTable() {
     // Primeiro busca os dados base
     axios.get('http://localhost:3001/api/routers')
       .then(res => {
-        const routersComStatusInicial = res.data.map(router => ({ ...router, ativo: null }));
+        const routersComStatusInicial = res.data.map(router => ({ ...router}));
         setRouters(routersComStatusInicial);
-
-        // Depois faz requisição de status de forma assíncrona
-        routersComStatusInicial.forEach((router, index) => {
-          axios.get(`http://localhost:3001/api/ping/${router.ipWan}`)
-            .then(statusRes => {
-              setRouters(prev => {
-                const novo = [...prev];
-                novo[index].ativo = statusRes.data.ativo;
-                return novo;
-              });
-            })
-            .catch(() => {
-              setRouters(prev => {
-                const novo = [...prev];
-                novo[index].ativo = false;
-                return novo;
-              });
-            });
-        });
       })
-      .catch(err => console.error("Erro ao carregar roteadores:", err));
-  }, []);
+      .catch(err => console.error("ERRO REQUEST BACKEND", err));
+    }, []);
 
   return (
     <Container>
@@ -41,9 +22,10 @@ function RouterTable() {
         <thead>
           <tr>
             <th>Modelo</th>
-            <th>Local</th>
+            <th>Bloco</th>
+            <th>Sala</th>
             <th>IP WAN</th>
-            <th>Tipo</th>
+            <th>Config</th>
             <th>Master</th>
             <th>Status</th>
           </tr>
@@ -60,13 +42,13 @@ function RouterTable() {
                 </a>
               </td>
               <td>{router.configuracao}</td>
-              <td>{router.roteadorMaster || '-'}</td>
+              <td>{router.roteadorMaster}</td>
               <td>
-                {router.ativo === null ? (
+                {router.status === null ? (
                   <StatusBadge aguardando>Aguardando...</StatusBadge>
                 ) : (
-                  <StatusBadge ativo={router.ativo}>
-                    {router.ativo ? "Ativo" : "Inativo"}
+                  <StatusBadge ativo={router.status}>
+                    {router.status}
                   </StatusBadge>
                 )}
               </td>
